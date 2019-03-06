@@ -1,0 +1,8 @@
+owner=449339893626306563
+prefix=Y
+game= Yousef
+stayinchannel=true
+songinstatus=false
+token=NTUyODc3NDI5OTYyNzAyODU5.D2F6xQ.XSi3HzQvxbShHWECH7NrhuHqWAI
+
+
