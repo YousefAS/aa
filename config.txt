@@ -4,5 +4,3 @@ game= Yousef
 stayinchannel=true
 songinstatus=false
 token=NTUyODc3NDI5OTYyNzAyODU5.D2F_Rg.tDTT9Vxy8fhqQuViejMwSfy4yOI
-
-
